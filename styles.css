@@ -13,4 +13,6 @@
 [class^="row"]{
     border: 2px solid #fff;
     min-height: 300px;
+    background-color: #ffd5cd;
+    padding: 20px;
 }
