@@ -4,8 +4,10 @@
 }
 
 [class^="col"]{
+    color: #8675a9;
     background-color: #efbbcf;
     border: 5px 5px 5px 5px;
+    border-color: #fff;
 }
 
 [class^="row"]{
