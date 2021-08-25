@@ -6,8 +6,10 @@
 [class^="col"]{
     color: #8675a9;
     background-color: #ffd5cd;
-    border: 5px;
+    border: 55px;
     border-color: black;
+    border-radius: 15px;
+    padding: 10px ;
 }
 
 [class^="row"]{
