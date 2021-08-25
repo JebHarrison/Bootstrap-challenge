@@ -10,4 +10,5 @@
 
 [class^="row"]{
     border: 2px solid #fff;
+    min-height: 300px;
 }
