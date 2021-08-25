@@ -1,3 +1,13 @@
 [class^="con"]{
-    color: #8675a9;
+    color: #ffd5cd;
+    background-color: #8675a9;
+}
+
+[class^="col"]{
+    background-color: #efbbcf;
+    border: 5px 5px 5px 5px;
+}
+
+[class^="row"]{
+    border: 2px solid #fff;
 }
