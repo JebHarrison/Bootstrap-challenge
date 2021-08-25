@@ -1,6 +1,7 @@
 [class^="con"]{
     color: #ffd5cd;
     background-color: #8675a9;
+    min-width: 500px;
 }
 
 [class^="col"]{
