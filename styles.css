@@ -6,13 +6,14 @@
 [class^="col"]{
     color: #8675a9;
     background-color: #ffd5cd;
-    border: 5px 5px 5px 5px;
-    border-color: #fff;
+    border: 5px;
+    border-color: black;
 }
 
 [class^="row"]{
-    border: 2px solid #fff;
+    border: 2px;
     min-height: 300px;
     background-color: #8675a9;
     padding: 20px;
+    border-radius: 5px;
 }
